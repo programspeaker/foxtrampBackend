@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 
 def Index(self):
-    return HttpResponse("Welcome to FOXTRAMP!")
+    return HttpResponse("Welcome to FOXTRAMP! New changes reflected")

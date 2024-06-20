@@ -4,5 +4,5 @@ from django.http import HttpResponse
 
 def Index(self):
     return HttpResponse(
-        "Welcome to FOXTRAMP! New changes reflected, Auto integration SUCCESS"
+        "Hi team, Welcome to FOXTRAMP. We are grateful to see you here. Now we are under maintenance. We will get back here soon."
     )
